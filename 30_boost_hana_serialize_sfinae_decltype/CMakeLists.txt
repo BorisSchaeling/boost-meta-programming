@@ -1,0 +1,1 @@
+add_executable(30_boost_hana_serialize_sfinae_decltype 30_boost_hana_serialize_sfinae_decltype.cpp)

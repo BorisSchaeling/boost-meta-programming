@@ -1,0 +1,1 @@
+add_executable(10_variadic_template_boost_preprocessor 10_variadic_template_boost_preprocessor.cpp)

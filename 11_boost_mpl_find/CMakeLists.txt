@@ -1,0 +1,1 @@
+add_executable(11_boost_mpl_find 11_boost_mpl_find.cpp)

@@ -1,0 +1,1 @@
+add_executable(20_boost_hana_for_each 20_boost_hana_for_each.cpp)

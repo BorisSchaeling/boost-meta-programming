@@ -1,0 +1,1 @@
+add_executable(16_boost_hana_any_of 16_boost_hana_any_of.cpp)

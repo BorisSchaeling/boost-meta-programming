@@ -1,0 +1,1 @@
+add_executable(18_boost_mp11_find_type 18_boost_mp11_find_type.cpp)

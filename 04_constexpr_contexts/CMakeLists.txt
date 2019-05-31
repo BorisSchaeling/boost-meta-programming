@@ -1,0 +1,1 @@
+add_executable(04_constexpr_contexts 04_constexpr_contexts.cpp)

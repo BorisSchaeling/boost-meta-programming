@@ -1,0 +1,1 @@
+add_executable(24_boost_hana_serialize_template_specialization 24_boost_hana_serialize_template_specialization.cpp)

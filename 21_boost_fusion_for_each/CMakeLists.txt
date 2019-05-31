@@ -1,0 +1,1 @@
+add_executable(21_boost_fusion_for_each 21_boost_fusion_for_each.cpp)

@@ -1,0 +1,1 @@
+add_executable(12_boost_mpl_find_minus_one 12_boost_mpl_find_minus_one.cpp)

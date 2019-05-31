@@ -1,0 +1,1 @@
+add_executable(22_boost_hana_serialize 22_boost_hana_serialize.cpp)

@@ -1,0 +1,1 @@
+add_executable(07_variadic_template_initializer_list 07_variadic_template_initializer_list.cpp)

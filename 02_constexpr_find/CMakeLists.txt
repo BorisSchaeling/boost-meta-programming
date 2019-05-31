@@ -1,0 +1,1 @@
+add_executable(02_constexpr_find 02_constexpr_find.cpp)

@@ -1,0 +1,1 @@
+add_executable(29_boost_hana_serialize_is_valid 29_boost_hana_serialize_is_valid.cpp)

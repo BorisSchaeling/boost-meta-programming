@@ -1,0 +1,1 @@
+add_executable(19_boost_hana_find_type 19_boost_hana_find_type.cpp)

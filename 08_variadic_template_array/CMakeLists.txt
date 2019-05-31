@@ -1,0 +1,1 @@
+add_executable(08_variadic_template_array 08_variadic_template_array.cpp)

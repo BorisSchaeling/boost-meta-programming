@@ -1,0 +1,1 @@
+add_executable(03_constexpr_variables 03_constexpr_variables.cpp)

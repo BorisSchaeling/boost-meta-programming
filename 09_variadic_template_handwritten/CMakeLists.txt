@@ -1,0 +1,1 @@
+add_executable(09_variadic_template_handwritten 09_variadic_template_handwritten.cpp)
